@@ -26,16 +26,16 @@ Como estamos utilizando React Native, esse Fluxo pode ser facilmente replicado p
 
 ## O que foi abordado?
 
--:heavy_check_mark: Fazer a chamada API
--:heavy_check_mark: Buscar e pegar o Token e o Usuário
--:heavy_check_mark: Armazenar os dados no <strong>Async Storage</strong>
--:heavy_check_mark: Criar um Contexto para deixar as informações disponibilizadas em toda a Aplicação
--:heavy_check_mark: Criar um Hook próprio
--:heavy_check_mark: Controlar o estado de Loading... das informações
--:heavy_check_mark: Onde fazer a Autenticação
--:heavy_check_mark: Onde fazer o Logout
--:heavy_check_mark: O que fazer com o Async Storage quando realizar cada operação
--:heavy_check_mark: Determinar qual a Stack de Rotas que iremos mostrar para cada caso 
+- :heavy_check_mark: Fazer a chamada API
+- :heavy_check_mark: Buscar e pegar o Token e o Usuário
+- :heavy_check_mark: Armazenar os dados no <strong>Async Storage</strong>
+- :heavy_check_mark: Criar um Contexto para deixar as informações disponibilizadas em toda a Aplicação
+- :heavy_check_mark: Criar um Hook próprio
+- :heavy_check_mark: Controlar o estado de Loading... das informações
+- :heavy_check_mark: Onde fazer a Autenticação
+- :heavy_check_mark: Onde fazer o Logout
+- :heavy_check_mark: O que fazer com o Async Storage quando realizar cada operação
+- :heavy_check_mark: Determinar qual a Stack de Rotas que iremos mostrar para cada caso 
 
 ## Como usar
 
