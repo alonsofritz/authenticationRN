@@ -7,7 +7,7 @@
 
 - [Sobre](#sobre)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [O que foi abordado?](#o-que-foi-abordado?)
+- [O que foi abordado?](#o-que-foi-abordado)
 - [Como Usar](#como-usar)
 
 <a id="sobre"></a>
