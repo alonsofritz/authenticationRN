@@ -56,7 +56,6 @@ Como estamos utilizando React Native, esse Fluxo pode ser facilmente replicado p
   $ yarn
 
   # Faça a Build do Mobile
-  $ cd tindev
   $ yarn android
 
   # Inicie a aplicação mobile
