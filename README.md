@@ -14,7 +14,7 @@
 
 ## Sobre
 
-Estudos sobre a criação de um <strons>Fluxo Completo de Autenticação</strong> dentro do React Native utilizando a Context API e utilizando os Hooks do React. não só os Hooks do React mas tambem criando um Hook próprio para gerenciar a Autenticação.
+Estudos sobre a criação de um <strons>Fluxo Completo de Autenticação</strong> dentro do React Native utilizando a Context API e utilizando os Hooks do React. Não só os Hooks do React mas tambem criando um Hook próprio para gerenciar a Autenticação.
 
 Como estamos utilizando React Native, esse Fluxo pode ser facilmente replicado para a WEB com ReactJS.
 
